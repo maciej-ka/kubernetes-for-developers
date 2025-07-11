@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: timeserver-container
-          image: docker.io/maciejka/timeserver:1
+          image: docker.io/maciejka/timeserver:2
